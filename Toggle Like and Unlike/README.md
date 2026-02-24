@@ -3,7 +3,7 @@
 An interactive JavaScript application that allows users to like and unlike a puppy image. The image and button styles change dynamically when the user clicks the Like button.
 
 ## 🔗 Live Demo
-👉 https://yourlinkhere.ccbp.tech
+👉 https://toggleunlike.ccbp.tech
 
 ## 🚀 Features
 - Toggle like and unlike functionality
