@@ -3,7 +3,7 @@
 An interactive web-based arithmetic game that challenges users to calculate the sum of two randomly generated numbers.
 
 ## 🔗 Live Demo
-👉 [https://yoursite.ccbp.tech](https://megadditionapp.ccbp.tech)
+👉 [https://megadditionapp.ccbp.tech](https://megadditionapp.ccbp.tech)
 
 ## 🚀 Features
 - **Dynamic Number Generation:** Automatically generates two random integers between 1 and 100 using JavaScript.
